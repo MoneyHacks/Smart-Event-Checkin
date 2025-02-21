@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "882984505953",
+    "project_id": "smart-event-check-in",
+    "storage_bucket": "smart-event-check-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882984505953:android:220410f5cdddebb3235020",
+        "android_client_info": {
+          "package_name": "com.example.smart_event_checkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyLZhBAU0YKVvTGMiYRLRPkoAnCBNEkAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
